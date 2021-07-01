@@ -20,7 +20,7 @@ const CONFIG = {
     btnNo: 'Không chơi, Anh trai à :3',
     question:'Chốt kèo nha e ',
     btnReply: 'Gửi ',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Không thoát được đâu em ạ ',
     mess: 'Anh biết mà',
     messDesc: 'Chúc em ngủ ngon mơ đeo đẹp',
     btnAccept: 'Okiiiii lun ',
