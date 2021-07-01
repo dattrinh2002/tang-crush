@@ -2,17 +2,17 @@ const CONFIG = {
     introTitle: 'Em này!',
     introDesc: `Mỗi mùa World Cup, Euro
 
-Ông thường xin vợ làm thơ xem đài
+     Ông thường xin vợ làm thơ xem đài
 
-Việc này là đúng hay sai?
+      Việc này là đúng hay sai?
 
-– Vừa đúng mà lại vừa sai
+–     Vừa đúng mà lại vừa sai
 
-Làm thơ mình chẳng xin ai bao giờ
+      Làm thơ mình chẳng xin ai bao giờ
 
-Thức khuya tới sáng tinh mơ
+      Thức khuya tới sáng tinh mơ
 
-Xem Đài tường thuật, làm thơ hàng ngày`,
+    Xem Đài tường thuật, làm thơ hàng ngày`,
     btnIntro: 'Chơi',
     title: '2h ngày 3/7/2021 🇧🇪 vs 🇮🇹',
     desc: 'Phải chăng em đã muốn gạ kèo ngay lúc này 😆😆😆😆 ',
